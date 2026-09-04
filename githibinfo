@@ -1,2 +1,0 @@
-check the file in which stage:git status -stage
-save checkpoints and also check:git log --online --graph
